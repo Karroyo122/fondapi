@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5bee30f8d16de613da198506"},"name":"Quesadilla","price":{"$numberInt":"25"},"description":"Sin queso","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5bee31f4d16de613da198507"},"name":"Tequeños","price":{"$numberInt":"15"},"description":"Trozos de queso cubierto con harina","__v":{"$numberInt":"0"}}
